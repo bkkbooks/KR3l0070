@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0070/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0070_WYG_000-1a, image: WYG1039/WYG1039-0363a.png}
+body:
+  text: 北忩炙輠録小說家類一雜事之屬提要臣等謹案北窗炙輠録一卷宋施德操撰德操有孟子發題已著録是書炙輠之名蓋取義淳于髠事然所記多當時前輩盛德可為士大夫觀法者實不以滑稽嘲弄為主未審何以命此名也德操與張九成友善故孟子發題附刻於橫浦集末其學問則九成純耽禪悅德操多稱道二程雖間一及蘇氏而不甚鄭重其第一條即言王氏新法由於激成以闡明程子之意則宗洛而不宗蜀其微意固可概見惟林靈素妖妄蠱惑實方士中桀黠之雄而德操稱其有活人之心未免好為異論又解孟子萬物皆備一條尤近荀卿性惡之㫖其橫浦之學偶相漸染故立是異說歟瑕瑜不掩分别觀之可也德操病廢終身行事無可表見志乘至不載其姓名其書明以來𫝊本亦希朱彛尊始得是本於海鹽乃稍稍𫝊抄流播殘編蠧蝕幾佚幸存亦可云希靚之祕笈矣乾隆四十一年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a4196bab50d4262a1dd81f8da958d50e341307b1e252c0dbe12d3f37b297de49
+metadata:
+  title: 北窗炙輠錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:39:25.094404'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0070/KR3l0070_000.txt
+hash: sha256:00fdaee1a407c231941d88db0d17d0e4084f67b88ca8c9f4e47c2f7b4f478d80
